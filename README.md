@@ -1,6 +1,7 @@
 # `Generative-AI`
 
 Before answering the question ` What is the Generative AI ? `. let us first answer the following question 
+
 `What do the following terms really mean?`
   1) Artificial Intelligence
   2) Machine Learning
