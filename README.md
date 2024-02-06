@@ -8,7 +8,7 @@ Q `What do the following terms really mean?`
   3) Deep Learning
   4) Natural Language Processing
 
-`Artificial Intelligence` : Artificial Intelligence is like giving a brains to machines ( computers ) so that the computers can do tasks & think themselves. In other words it is a process of teaching a computers to do a tasks and think like the humans do
+1) `Artificial Intelligence` : Artificial Intelligence is like giving a brains to machines ( computers ) so that the computers can do tasks & think themselves. In other words it is a process of teaching a computers to do a tasks and think like the humans do
 
 `Machine Learning` : In simple words `Telling the computers to learn from the previous data and make decision on new data `. ML is subset of the Artificial Intelligence. The main focus of the ML would be to devolope a algorithms and statistical models which enables computers to do tasks and think. These ML algorithms and models learn form the data, identify pattern and makes a decision with minimum human intervention
 
