@@ -16,4 +16,7 @@ Q `What do the following terms really mean?`
 
 `Natiral Language Processing`: Natural Language Processing enables computers to understand and generate human language, leading to advancements in communication, customer service, and information retrieval
 
-`Generative AI` : Generative AI refers to `NLP`,`DL`, and `ML` models that can generate the high quality `Texts`, `Images`, and other content based on the `data` that they are trained on.  
+`Generative AI` : Generative AI refers to `NLP`,`DL`, and `ML` models that can generate the high quality `Texts`, `Images`, and other content based on the `data` that they are trained on.
+
+
+Generative Artificial Intelligence 
