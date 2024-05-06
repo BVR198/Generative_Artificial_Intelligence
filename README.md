@@ -1,5 +1,6 @@
 # `Generative-AI`
 
+Welcome to the Generattive AI, Since the release of ChatGPT, AI specially Generative AI has grasp the attention of many Indiviquals, Corporatins and Government.
 Before answering the question ` What is the Generative AI ? `. let us first answer the following question 
 
 Q `What do the following terms really mean?`
